@@ -7,7 +7,7 @@ export const GAMEOBJECT_FLAGS: Flag[] = [
   { bit: 3, name: 'TRANSPORT' },
   { bit: 4, name: 'NOT_SELECTABLE' },
   { bit: 5, name: 'NODESPAWN' },
-  { bit: 6, name: 'TRIGGERED' },
+  { bit: 6, name: 'AI_OBSTACLE' },
   { bit: 7, name: 'FREEZE_ANIMATION (unused)' },
   { bit: 9, name: 'DAMAGED' },
   { bit: 10, name: 'DESTROYED' },

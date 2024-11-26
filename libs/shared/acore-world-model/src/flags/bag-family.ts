@@ -16,4 +16,6 @@ export const BAG_FAMILY: Flag[] = [
   { bit: 12, name: 'Vanity Pets' },
   { bit: 13, name: 'Currency Tokens' },
   { bit: 14, name: 'Quest Items' },
+  { bit: 15, name: 'Fishing Supplies' },
+  { bit: 16, name: 'Cooking Supplies' },
 ];
