@@ -12,4 +12,12 @@ export const ALLOWABLE_RACES: Flag[] = [
   { bit: 8, name: 'Goblin (UNUSUED)' },
   { bit: 9, name: 'Blood Elf' },
   { bit: 10, name: 'Draenei' },
+  { bit: 21, name: 'Worgen' },
+  { bit: 23, name: 'Pandaren (Neutral)' },
+  { bit: 24, name: 'Pandaren (Alliance) ' },
+  { bit: 25, name: 'Pandaren (Horde)' },
+  { bit: 26, name: 'Nightborne' },
+  { bit: 27, name: 'Highmountain Tauren' },
+  { bit: 28, name: 'Void Elf' },
+  { bit: 29, name: 'Lightforged Draenei' },
 ];
