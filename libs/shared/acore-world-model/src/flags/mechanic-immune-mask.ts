@@ -32,4 +32,5 @@ export const MECHANIC_IMMUNE_MASK: Flag[] = [
   { bit: 28, name: 'IMMUNE_SHIELD - e.g. Divine Shield, Ice Block, Hand of Protection' },
   { bit: 29, name: 'SAPPED' },
   { bit: 30, name: 'ENRAGED' },
+  { bit: 31, name: 'WOUNDED' },
 ];
